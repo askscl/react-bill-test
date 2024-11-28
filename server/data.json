@@ -1,0 +1,46 @@
+{
+  "ka": [
+    {
+      "type": "pay",
+      "money": -99,
+      "date": "2022-10-24 10:36:42",
+      "useFor": "drinks",
+      "id": "1"
+    },
+    {
+      "id": "cb63",
+      "type": "pay",
+      "money": -10,
+      "date": "2024-11-28T03:41:17.086Z",
+      "useFor": "drinks"
+    },
+    {
+      "id": "4a51",
+      "type": "pay",
+      "money": -10,
+      "date": "2024-11-28T03:42:29.261Z",
+      "useFor": "dessert"
+    },
+    {
+      "id": "f6e0",
+      "type": "pay",
+      "money": -1110,
+      "date": "2024-11-28T03:44:47.874Z",
+      "useFor": "dessert"
+    },
+    {
+      "id": "ac54",
+      "type": "pay",
+      "money": -10,
+      "date": "2024-11-28T03:49:17.682Z",
+      "useFor": "dessert"
+    },
+    {
+      "id": "99f3",
+      "type": "pay",
+      "money": -222,
+      "date": "2024-11-28T03:49:25.865Z",
+      "useFor": "taxi"
+    }
+  ]
+}
